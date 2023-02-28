@@ -8,7 +8,9 @@ const shoppingList = [
     'Besciamella',
     'Flour',
     'Cubes',
-    'Sugar'
+    'Sugar',
+    'Potato Chips',
+    'Mayonese'
 ]
 
 const list = document.querySelector('.shopping-list');
